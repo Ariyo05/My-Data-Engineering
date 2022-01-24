@@ -1,3 +1,11 @@
+Question 1. Google Cloud SDK
+Google Cloud SDK 369.0.0
+bq 2.0.72
+core 2022.01.14
+gsutil 5.6
+
+QUESTION 2. STILL PENDING
+
 Question 3: Count
 select count(*) from public.yellow_tripdata
 where tpep_pickup_datetime::date = '2021-01-15'
